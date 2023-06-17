@@ -6,4 +6,5 @@ Our simple game will involve two six-sided dice. In order to win, the player nee
 From our figure, we can determine that the player rarely makes a profit after 1,000 rolls. In fact, the average ending balance of our 10,000 simulations is $833.66 (your results may be slightly different due to randomization). So, even though the house was “generous” in paying out 4 times our bet when the player won, the house still came out on top. We also notice that our win probability is about 0.1667, or approximately 1/6.
 
 ![image](https://github.com/krishna1052/Monte-carlo-simulation/assets/95615695/0937b4e2-e170-4acb-b094-7e61dd208727)
+
 ![image](https://github.com/krishna1052/Monte-carlo-simulation/assets/95615695/4d30740b-5ae7-462f-944f-d59b33f598d5)
